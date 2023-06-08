@@ -1,86 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T09:18:05.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="LWVNOWa_VOSYvD4kk-4J" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T09:17:29.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="_rrD9Ryq1zmGtYzXmIJH" version="21.2.1" type="github">
   <diagram name="第 1 页" id="Ldw2Bb3t2mp55HGngY9_">
-    <mxGraphModel dx="1379" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1970" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="olH_70rzUlN4_6H-1aZ1-2" value="&lt;p style=&quot;line-height: 190%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 180%;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; 业务痛点&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 180%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.区块链弱隐私特性违法债券业务规则&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 180%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.节点权力对等造成系统稳定性差&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 180%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.债券市场区块链系统难以互联互通&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="331" y="30" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="olH_70rzUlN4_6H-1aZ1-4" value="&lt;p style=&quot;line-height: 80%; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;关键技术调研&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 80%; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;1.面向联盟链的隐私保护技术&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 80%; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: justify; font-size: 15px;&quot;&gt;2.面向群体的数字签名技术&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 80%; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: justify; font-size: 15px;&quot;&gt;3.区块链跨链技术&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=-2;" parent="1" vertex="1">
+          <mxGeometry x="331" y="194" width="430" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="olH_70rzUlN4_6H-1aZ1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="olH_70rzUlN4_6H-1aZ1-2" target="olH_70rzUlN4_6H-1aZ1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olH_70rzUlN4_6H-1aZ1-2" value="&lt;p style=&quot;line-height: 190%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 180%;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; 业务痛点&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 180%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.区块链弱隐私特性违法债券业务规则&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 180%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.节点权力对等造成系统稳定性差&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 180%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.债券市场区块链系统难以互联互通&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="220" y="16" width="430" height="110" as="geometry" />
+        <mxCell id="olH_70rzUlN4_6H-1aZ1-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+          <mxGeometry x="170" y="378" width="751" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="olH_70rzUlN4_6H-1aZ1-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;研究内容&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="176" y="374" width="740" height="60" as="geometry" />
         </mxCell>
         <mxCell id="olH_70rzUlN4_6H-1aZ1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="olH_70rzUlN4_6H-1aZ1-4" target="olH_70rzUlN4_6H-1aZ1-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olH_70rzUlN4_6H-1aZ1-4" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;关键技术调研&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.面向联盟链的隐私保护技术&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;2.面向群体的数字签名技术&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;3.区块链跨链技术&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="220" y="180" width="430" height="120" as="geometry" />
+        <mxCell id="olH_70rzUlN4_6H-1aZ1-10" value="研究一：基于混合加密的区块链数字债券发行系统访问控制增强模型" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="423" y="464" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="olH_70rzUlN4_6H-1aZ1-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="59" y="364" width="751" height="830" as="geometry" />
-        </mxCell>
-        <mxCell id="olH_70rzUlN4_6H-1aZ1-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;研究内容&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="65" y="360" width="740" height="60" as="geometry" />
+        <mxCell id="olH_70rzUlN4_6H-1aZ1-11" value="研究二：带有时间约束的区块链数字债券数据披露方法" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="423" y="617" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="olH_70rzUlN4_6H-1aZ1-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" target="olH_70rzUlN4_6H-1aZ1-11" source="olH_70rzUlN4_6H-1aZ1-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="445" y="540" as="sourcePoint" />
-            <mxPoint x="495" y="490" as="targetPoint" />
+            <mxPoint x="540" y="554" as="sourcePoint" />
+            <mxPoint x="590" y="504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="olH_70rzUlN4_6H-1aZ1-10" value="研究一：基于混合加密的区块链数字债券发行系统访问控制增强模型" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="328" y="450" width="240" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="olH_70rzUlN4_6H-1aZ1-11" value="研究二：带有时间约束的区块链数字债券数据披露方法" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="328" y="603" width="240" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="olH_70rzUlN4_6H-1aZ1-13" value="研究三：面向数字债券应用的加权门限签名机制" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="328" y="757" width="240" height="90" as="geometry" />
+          <mxGeometry x="423" y="771" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="olH_70rzUlN4_6H-1aZ1-14" value="研究四：区块链数字债券跨链互操作" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="328" y="910" width="240" height="90" as="geometry" />
+          <mxGeometry x="423" y="924" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="g6Ow84a2O-98_vWDmqiP-1" value="&lt;p style=&quot;line-height: 220%;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;痛点1&lt;/b&gt;.&lt;br&gt;问题1：明文账本存储&lt;br&gt;问题2：智能合约接口开放&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="70" y="519" width="160" height="110" as="geometry" />
+          <mxGeometry x="181" y="533" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="g6Ow84a2O-98_vWDmqiP-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;区&lt;br&gt;块&lt;br&gt;链&lt;br&gt;数&lt;br&gt;字&lt;br&gt;债&lt;br&gt;券&lt;br&gt;平&lt;br&gt;台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="450" width="50" height="560" as="geometry" />
+          <mxGeometry x="1058" y="464" width="50" height="566" as="geometry" />
         </mxCell>
         <mxCell id="g6Ow84a2O-98_vWDmqiP-9" value="&lt;p style=&quot;line-height: 220%;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;痛点2&lt;/b&gt;.&lt;br&gt;问题1：明文账本存储&lt;br&gt;问题2：智能合约接口开放&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="70" y="747" width="160" height="110" as="geometry" />
+          <mxGeometry x="181" y="761" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="g6Ow84a2O-98_vWDmqiP-10" value="&lt;p style=&quot;line-height: 220%;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;痛点3&lt;/b&gt;.&lt;br&gt;问题1：明文账本存储&lt;br&gt;问题2：智能合约接口开放&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="70" y="900" width="160" height="110" as="geometry" />
+          <mxGeometry x="181" y="914" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="g6Ow84a2O-98_vWDmqiP-14" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="480" width="87" height="50" as="geometry" />
+          <mxGeometry x="928" y="477" width="87" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="g6Ow84a2O-98_vWDmqiP-16" value="集成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="596" y="465" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="g6Ow84a2O-98_vWDmqiP-18" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="241" y="550" width="87" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="g6Ow84a2O-98_vWDmqiP-19" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="241" y="777" width="87" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="g6Ow84a2O-98_vWDmqiP-20" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="241" y="940" width="87" height="50" as="geometry" />
+        <mxCell id="g6Ow84a2O-98_vWDmqiP-16" value="集成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="935.5" y="450" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g6Ow84a2O-98_vWDmqiP-21" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="577.5" y="937.5" width="87" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="g6Ow84a2O-98_vWDmqiP-22" value="集成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="583.5" y="922.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="928" y="955" width="87" height="50" as="geometry" />
         </mxCell>
         <mxCell id="g6Ow84a2O-98_vWDmqiP-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;专题研究：区块链数字债券标准体系&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1087" width="680" height="90" as="geometry" />
+          <mxGeometry x="181" y="1101" width="680" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Ow84a2O-98_vWDmqiP-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1018" y="378" width="120" height="832" as="geometry" />
         </mxCell>
         <mxCell id="g6Ow84a2O-98_vWDmqiP-29" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=1;dashed=1;dashPattern=1 1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="402" y="1022" width="78" height="46" as="geometry" />
+          <mxGeometry x="497" y="1036" width="78" height="46" as="geometry" />
         </mxCell>
         <mxCell id="g6Ow84a2O-98_vWDmqiP-30" value="经验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1022" width="50" height="30" as="geometry" />
+          <mxGeometry x="581" y="1036" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Ow84a2O-98_vWDmqiP-59" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;实践验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1038" y="389" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Ow84a2O-98_vWDmqiP-61" value="集成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="935.5" y="924" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Ow84a2O-98_vWDmqiP-62" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Ow84a2O-98_vWDmqiP-63" value="研究一：基于混合加密的区块链数字债券发行系统访问控制增强模型" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="688" y="464" width="222" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
