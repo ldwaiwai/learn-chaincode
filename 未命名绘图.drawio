@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T09:28:47.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="IaXAivoZYK6Y8Ime-YO9" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T09:33:54.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="SN4tU-O_ZI5UcrJZMN7e" version="21.2.1" type="github">
   <diagram name="第 1 页" id="Ldw2Bb3t2mp55HGngY9_">
     <mxGraphModel dx="2797" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,27 +68,27 @@
           <mxGeometry x="1018" y="378" width="120" height="832" as="geometry" />
         </mxCell>
         <mxCell id="g6Ow84a2O-98_vWDmqiP-29" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=1;dashed=1;dashPattern=1 1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="497" y="1036" width="78" height="46" as="geometry" />
+          <mxGeometry x="503" y="1036" width="78" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="g6Ow84a2O-98_vWDmqiP-30" value="经验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="g6Ow84a2O-98_vWDmqiP-30" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;经验&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="581" y="1036" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g6Ow84a2O-98_vWDmqiP-59" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;实践验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="g6Ow84a2O-98_vWDmqiP-59" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;落地实践&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1038" y="389" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g6Ow84a2O-98_vWDmqiP-61" value="集成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="935.5" y="924" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g6Ow84a2O-98_vWDmqiP-63" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;工程问题：权限、链上数据结构设计&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="g6Ow84a2O-98_vWDmqiP-63" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;工程问题：智能合约调研权限分配、密文链上数据结构设计&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="688" y="464" width="222" height="90" as="geometry" />
         </mxCell>
         <mxCell id="g6Ow84a2O-98_vWDmqiP-64" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;科学问题：如何在带有时间约束的密文策略属性加密算法中添加访问时刻属性有效性判断&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=14;spacing=7;" vertex="1" parent="1">
           <mxGeometry x="688" y="617" width="222" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="g6Ow84a2O-98_vWDmqiP-65" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;科学问题：如何设计嵌套的Shamir秘密分享方案分割签名密钥，基于SM2&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=14;spacing=7;" vertex="1" parent="1">
+        <mxCell id="g6Ow84a2O-98_vWDmqiP-65" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;科学问题：如何设计嵌套的Shamir秘密分享方案分割签名密钥，支持加入特权阶级的SM2门限签名&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=14;spacing=7;" vertex="1" parent="1">
           <mxGeometry x="688" y="771" width="222" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="g6Ow84a2O-98_vWDmqiP-66" value="工程问题：权限、链上数据结构设计" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="g6Ow84a2O-98_vWDmqiP-66" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;工程问题：基于主流跨链技术设计跨链方案，并提出跨链体系架构&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="688" y="924" width="222" height="90" as="geometry" />
         </mxCell>
       </root>
