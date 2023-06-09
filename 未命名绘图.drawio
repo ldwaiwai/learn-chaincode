@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T05:37:51.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="ev6tQ425iSZhvkGg0jAy" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-09T05:38:34.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="My0F0YTuNBo_K3AKWRnn" version="21.3.7" type="github" pages="2">
   <diagram name="研究内容" id="Ldw2Bb3t2mp55HGngY9_">
     <mxGraphModel dx="2449" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,6 +170,9 @@
         </mxCell>
         <mxCell id="ZhBS1M-Vv77jB3i347Pw-23" value="面向数字债务应用的特权门限签名机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhBS1M-Vv77jB3i347Pw-24" value="数字债务市场跨链互操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="360" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
