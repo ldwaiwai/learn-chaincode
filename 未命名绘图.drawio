@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T03:24:54.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="CUj6PXmlj70FWx1kWXGm" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-09T04:24:23.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="r-A7V9SsM2bYMfQTDvqZ" version="21.3.7" type="github" pages="2">
   <diagram name="研究内容" id="Ldw2Bb3t2mp55HGngY9_">
     <mxGraphModel dx="2449" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,6 +108,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZhBS1M-Vv77jB3i347Pw-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="560" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhBS1M-Vv77jB3i347Pw-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="580" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhBS1M-Vv77jB3i347Pw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZhBS1M-Vv77jB3i347Pw-4" target="ZhBS1M-Vv77jB3i347Pw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhBS1M-Vv77jB3i347Pw-4" value="第一章 绪论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhBS1M-Vv77jB3i347Pw-5" value="区块链数字债券关键技术研究" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="224" y="30" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhBS1M-Vv77jB3i347Pw-6" value="第二章 研究现状与文献综述" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="314" y="208" width="200" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
