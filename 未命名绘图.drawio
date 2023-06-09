@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T04:32:20.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="bCBi_9bVC4QESL8cUq-O" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-09T05:37:51.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="ev6tQ425iSZhvkGg0jAy" version="21.3.7" type="github" pages="2">
   <diagram name="研究内容" id="Ldw2Bb3t2mp55HGngY9_">
     <mxGraphModel dx="2449" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,6 +161,15 @@
             <mxPoint x="490" y="270" as="sourcePoint" />
             <mxPoint x="440" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhBS1M-Vv77jB3i347Pw-21" value="基于混合加密的区块链债券发行系统访问控制增强模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhBS1M-Vv77jB3i347Pw-22" value="带有时间约束的债券数据披露方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhBS1M-Vv77jB3i347Pw-23" value="面向数字债务应用的特权门限签名机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
